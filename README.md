@@ -1,4 +1,9 @@
 # About-This-Hack
+
+### THIS REPO HAS MOVED 
+New location: https://GitHub.com/0xCUB3/About-This-Hack
+
+
 A simple application to view your exact hardware on macOS. Similar to About This Mac, but with more features, including AMD Processor Support, display resolution, and more! Works on both Hackintoshes *and* real Macs! <br>
 ![Screen Shot 2021-06-24 at 11 02 13 AM](https://user-images.githubusercontent.com/79278890/123286218-b8e6ec80-d4db-11eb-9ce4-7fef3bd62f82.png)
 
